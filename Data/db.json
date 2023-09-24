@@ -1,0 +1,24 @@
+{
+    "blogs":[
+    {
+    "title":"my new website",
+    "body":"loren",
+    "author":"nidhi",
+    "id":1
+},
+    
+       { "title":"my new website",
+        "body":"loren",
+        "author":"nid",
+        "id":2
+    },
+    {
+        "title":"I am btch",
+    "body":"loren",
+    "author":"nidhi",
+    "id":3
+}
+
+
+]
+}
