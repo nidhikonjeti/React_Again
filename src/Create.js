@@ -23,7 +23,7 @@ const Create = () => {
         }).then(()=>
         {
             console.log('new blog added')
-            setPending(false)
+            
             //histroy.go(-1)
             histroy.push('/')
         })
